@@ -6,6 +6,6 @@ Online Demo:
 https://matthias-jaeger-net.github.io/FarbeCodeZufallsMosaik/
 
 Anleitung:
-https://github.com/matthias-jaeger-net/FarbeCodeZufallsMosaik/pdf
+https://github.com/matthias-jaeger-net/FarbeCodeZufallsMosaik/
 
 ![FarbeCodeZufallsMosaik](img/FarbeCodeZufallsMosaik(85).jpg)
