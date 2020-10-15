@@ -11,21 +11,11 @@ canvas {
   height: auto;
 }
 
-div,
-h3,
-a {
-  padding: 10px;
-  margin: 10px;
-  color: black;
+
+.is-active {
+  color: blue !important;
 }
 
-a {
-  display: inline-block;
-  padding: 20px;
-  border: 1px solid;
-}
-
-main {
-  display: flex;
-  flex-wrap: wrap;
+svg {
+  fill: currentColor;
 }
